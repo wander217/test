@@ -14,8 +14,8 @@ public class test_connection {
 		String db_name = "FinancialManager";
 		String connection_query = "jdbc:sqlserver://127.0.0.1:1433;"
 				+ "database=FinancialManager;"
-				+ "user=wander217;"
-				+ "password=Trinhthinh@217;"
+				+ "user=test_user;"
+				+ "password=Abc@123;"
 				+ "encrypt=true;"
 				+ "trustServerCertificate=true;"
 				+ "loginTimeout=30;";
